@@ -4,4 +4,5 @@ This project is a **Python turtle graphics**!
 
 
 
-![Happy_Teachers'_Day_2](https://user-images.githubusercontent.com/78868726/132125955-557e7828-282f-45fc-8178-c50ddae001ef.png)
+![Happy_Teachers'_Day_3](https://user-images.githubusercontent.com/78868726/132126163-b7c6b3bf-cb5c-49d5-b215-b54b9525bb2f.png)
+
