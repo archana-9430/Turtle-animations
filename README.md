@@ -1,6 +1,10 @@
 # A-Tribute-to-Master-Shifu-Asokan
-This project is a **Python turtle graphics**!
- (animations) as a tribute to Master Shifu Asokan on Tecahers' Day'21.
+This is a **Python turtle graphics**! (animations) project I made 
+ as a tribute to Master Shifu Asokan on Tecahers' Day'21.
+ 
+ <br>
+ <br>
+ **Link for my Blog post: ** https://medium.com/@archanakumari943064/happy-teachers-day-6eed6cc96df4
 
 
 
