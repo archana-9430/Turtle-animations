@@ -34,6 +34,4 @@ https://user-images.githubusercontent.com/78868726/136078762-8d0a9550-bce5-42c3-
 
 https://user-images.githubusercontent.com/78868726/136078814-72186e54-657b-4a7d-bd89-22f72170c448.mp4
 
-[Copy of Resume Template for freshers (13).pdf](https://github.com/archana-9430/Turtle-animations/files/7288210/Copy.of.Resume.Template.for.freshers.13.pdf)
-[Copy of Resume Template for freshers (12).pdf](https://github.com/archana-9430/Turtle-animations/files/7288211/Copy.of.Resume.Template.for.freshers.12.pdf)
 
